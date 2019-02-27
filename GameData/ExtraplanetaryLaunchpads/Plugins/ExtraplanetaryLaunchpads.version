@@ -1,0 +1,7 @@
+{
+	"NAME":"ExtraplanetaryLaunchpads",
+	"URL":"http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version",
+	"DOWNLOAD":"http://taniwha.org/~bill/ExtraplanetaryLaunchpads_v6.5.1.zip",
+	"VERSION":{"MAJOR":6,"MINOR":5,"PATCH":1,"BUILD":0},
+	"KSP_VERSION":{"MAJOR":1,"MINOR":6,"PATCH":1}
+}
